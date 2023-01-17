@@ -1,0 +1,8 @@
+D:\c# çalışmalar\ödev_3\ödev_3\obj\Debug\ödev_3.csproj.AssemblyReference.cache
+D:\c# çalışmalar\ödev_3\ödev_3\obj\Debug\ödev_3.csproj.SuggestedBindingRedirects.cache
+D:\c# çalışmalar\ödev_3\ödev_3\obj\Debug\ödev_3.csproj.CoreCompileInputs.cache
+D:\c# çalışmalar\ödev_3\ödev_3\bin\Debug\ödev_3.exe.config
+D:\c# çalışmalar\ödev_3\ödev_3\bin\Debug\ödev_3.exe
+D:\c# çalışmalar\ödev_3\ödev_3\bin\Debug\ödev_3.pdb
+D:\c# çalışmalar\ödev_3\ödev_3\obj\Debug\ödev_3.exe
+D:\c# çalışmalar\ödev_3\ödev_3\obj\Debug\ödev_3.pdb
